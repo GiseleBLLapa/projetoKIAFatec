@@ -1,7 +1,7 @@
 # Projeto KIA/Fatec SJC
 # Equipe de desenvolvimento
 ANA BEATRIZ 
-RA       6o ADS
+RA RA  1460481821005 - 6º ADS
 ana.leite12@fatec.sp.gov.br
 CRISTIANO DONISETE RIBEIRO 
 RA 1461141521011 6o AMD
@@ -10,7 +10,7 @@ GISELE BARBA DE LIMA LAPA
 RA 1460481811024 –  6o ADS
 gisele.lapa@fatec.sp.gov.br
 THIAGO FRANCISCO
-RA    6o ADS
+RA RA 1460481811085  6o ADS
 thiagofrancisco3@fatec.sp.gov.br
 
 # Professor Orientador: : M.e.Prof. José Walmir Gonçalves Duque
